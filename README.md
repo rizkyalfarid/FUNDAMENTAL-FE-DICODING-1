@@ -8,10 +8,6 @@ Proyek ini merupakan Notes Apps yang dibuat sebagai bagian dari course Fundament
 - SCSS
 - JavaScript
 
-## Instalasi dan Penggunaan
-1. Clone repositori ini ke komputer lokal Anda.
-2. Buka file `index.html` menggunakan browser web favorit Anda.
-
 ## Kontribusi
 Kontribusi dalam bentuk _pull request_ adalah selalu dipersilakan. Pastikan untuk membuka _issue_ terlebih dahulu untuk diskusi tentang perubahan yang ingin Anda ajukan.
 
