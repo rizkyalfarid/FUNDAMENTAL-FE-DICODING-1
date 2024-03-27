@@ -1,7 +1,7 @@
 # Proyek Pertama: Notes Apps
 
 ## Deskripsi
-Proyek ini merupakan Notes Apps yang dibuat sebagai bagian dari course Fundamental Frontend Web. Website ini bertujuan untuk memperkenalkan diri, menampilkan karya-karya, dan berbagi informasi kontak.
+Proyek ini merupakan Notes Apps yang dibuat sebagai bagian dari course Fundamental Frontend Web. Website ini bertujuan untuk menyelesaikan course dari Dicoding Academy.
 
 ## Teknologi yang Digunakan
 - HTML
