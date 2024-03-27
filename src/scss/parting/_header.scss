@@ -1,0 +1,54 @@
+header {
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.195);
+  form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .title {
+    font-size: 2rem;
+    color: #008DDA;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+  }
+
+  .form-group {
+    display: flex;
+    justify-content: center;
+  }
+  .search {
+    width: 280px;
+    border: none;
+    background-color: #eaeaea;
+    padding: 10px ;
+    border-radius: 10px;
+    margin-right: 10px;
+
+    &:focus {
+      outline: none;
+      box-shadow: 0 0 10px grey;
+      transition: 100ms all;
+    }
+  }
+
+  .submit {
+    background-color: #008DDA;
+    color: white;
+    padding : 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    &:active {
+      background-color: #005FAB; 
+      transform: translateY(1px);
+    }
+  }
+
+
+}

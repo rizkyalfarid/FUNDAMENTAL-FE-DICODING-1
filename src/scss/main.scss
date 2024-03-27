@@ -1,0 +1,17 @@
+@use './parting/header';
+@use './parting/form';
+@use './parting/card';
+//responsive sass
+@use './query/tablet';
+@use './query/desktop';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #d1d1d1;
+}
+
